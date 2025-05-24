@@ -42,5 +42,5 @@ kubectl logs --tail=30 pods/nginx-with-init-container -c nginx-container
 
 🌎 There are many more ways to see logs, the command is pretty flexible. You can try for yourself.
 
-### ❗️ Also, here is an useful resource I found on pod creation:
+### ❗️ Also, here is a useful resource I found on pod creation:
 ![Image](https://github.com/user-attachments/assets/4dbf61c4-892e-4187-8d44-208a0e216510)
