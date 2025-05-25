@@ -1,6 +1,6 @@
 # 📦 initContainers
 
-initContainers is a feature provided by K8s pods to run setup scripts before the actual containers start
+initContainers is a feature provided by K8s pods to run setup scripts before the actual containers start.
 
 You can execute multiple initContainers in the same Pod, but keep in mind they will run one after another, **not** in parallel.
 
